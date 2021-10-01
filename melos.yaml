@@ -1,0 +1,5 @@
+name: modularized_flutter_app
+
+packages:
+  - /**
+  - packages/**
