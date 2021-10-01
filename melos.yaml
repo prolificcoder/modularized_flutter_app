@@ -1,5 +1,5 @@
 name: modularized_flutter_app
 
 packages:
-  - /**
+  - /** #Consider root of the package as valid package too
   - packages/**
